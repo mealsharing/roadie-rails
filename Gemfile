@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'roadie', github: 'mealsharing/roadie'
-
 # Specify your gem's dependencies in roadie-rails.gemspec
 gemspec
 
